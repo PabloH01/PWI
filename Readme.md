@@ -1,4 +1,6 @@
 # Github
 Primeiro Projeto usando controle de Versão
 
-Ajuda: [Git] (https://git-srm.com/doc)
+![Logo](https://github.com/favicon.ico)
+
+Ajuda: [Git](https://git-srm.com/doc)
